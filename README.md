@@ -8,7 +8,7 @@ My list of hobbies includes anything related to military and firearms, programmi
 ### Programming
 I used to work a lot on Discord bots during 2018 and 2019. Since 2020 I have been busy with college and instead moved on to work on [dblpy/topggpy](https://github.com/top-gg/python-sdk).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaco&show_icons=true)
 
 ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaco)
 
