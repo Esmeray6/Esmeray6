@@ -1,12 +1,12 @@
 ## Hello there
 
-I am Assanali Mukhanov, an 18-year-old guy born and living in Kazakhstan. I go by the nickname `shivaco` on most social media platforms, and you will mostly see me in [my Discord server](https://discord.gg/YYtpYBr) or in [Top.gg](https://discord.gg/EYHTgJX). I also occasionally browse stuff and express my opinions on [Twitter](https://twitter.com/shivaco_).
+I am Assanali Mukhanov, a 19-year-old guy born and living in Kazakhstan. I go by the nickname `shivaco` on most social media platforms, and you will mostly see me in [my Discord server](https://discord.gg/YYtpYBr). I also occasionally browse stuff and express my opinions on [Twitter](https://twitter.com/shivaco_).
 
 ## Hobbies
 My list of hobbies includes anything related to military and firearms, programming, psychology, and law enforcement.
 
 ### Programming
-I used to work a lot on Discord bots during 2018 and 2019. Since 2020 I have been busy with college and instead moved on to work on [dblpy/topggpy](https://github.com/top-gg/python-sdk).
+I used to work a lot on Discord bots during 2018 and 2019. Since 2020 I have been busy with college and instead moved on to work on [dblpy/topggpy](https://github.com/top-gg/python-sdk). As of 2021, I've started to work on personal projects in Rust instead.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaco&show_icons=true)
 
@@ -17,4 +17,3 @@ I get fascinated by MilSim genre of videogames and pretty much anything related 
 
 ### Psychology
 Yes.
-<!--**shivaco/shivaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
