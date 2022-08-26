@@ -1,6 +1,6 @@
 ## Hello there
 
-I am Assanali Mukhanov, a 19-year-old guy born and living in Kazakhstan. I go by the nicknames `shivaco` and `Skydust` on most social media platforms, and you will mostly see me in [my Discord server](https://discord.gg/YYtpYBr). I also occasionally browse stuff and express my opinions on [Twitter](https://twitter.com/shivaco_).
+I am Assanali Mukhanov. I'm 20 years old, born and living in Kazakhstan. I go by the nicknames `shivaco` and `Skydust` on most social media platforms, and you will mostly see me in [my Discord server](https://discord.gg/YYtpYBr). I also occasionally browse stuff and express my opinions on [Twitter](https://twitter.com/Skydust____).
 
 ## Hobbies
 My list of hobbies includes anything related to military and firearms, programming, psychology, and law enforcement.
@@ -16,4 +16,4 @@ I used to work a lot on Discord bots during 2018 and 2019. Since 2020 I have bee
 I get fascinated by MilSim genre of videogames and pretty much anything related to military equipment, stories, tactics, etc. This also includes anything related to law enforcement agencies.
 
 ### Psychology
-Yes.
+Mostly learning random stuff regarding neurological disorders and trauma recovery.
