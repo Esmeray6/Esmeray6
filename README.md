@@ -13,7 +13,7 @@ I used to work a lot on Discord bots during 2018 and 2019. Since 2020 I have bee
 ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaco)
 
 ### Military/Law Enforcement
-I get fascinated by MilSim genre of videogames and pretty much anything related to military equipment, stories, tactics, etc. This also includes anything related to law enforcement agencies.
+I get fascinated by the MilSim genre of videogames and pretty much anything related to military equipment, stories, tactics, etc. This also includes anything related to law enforcement agencies.
 
 ### Psychology
 Mostly learning random stuff regarding neurological disorders and trauma recovery.
