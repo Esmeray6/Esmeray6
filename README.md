@@ -1,6 +1,6 @@
 ## Hello there
 
-I am Assanali Mukhanov. I'm 21 years old, born and living in Kazakhstan. I go by the nicknames `Esmeray` and `Skydust` on most social media platforms, and you will mostly see me on [the Discord server](https://discord.gg/YYtpYBr) for [to the beat!](https://www.youtube.com/@tothebeat6838). I also occasionally browse stuff.
+I am Assanali Mukhanov. I'm 21 years old, born and living in Kazakhstan. I go by the nicknames `Esmeray` and `Skydust` on most social media platforms, and you will mostly see me on [the Discord server](https://discord.gg/YYtpYBr) for [to the beat!](https://www.youtube.com/@tothebeat6838) and [Antistasi Commuunity](https://discord.com/invite/TYDwCRKnKX).
 
 ## Hobbies
 My hobbies include anything related to the military and firearms, programming, psychology, and law enforcement.
